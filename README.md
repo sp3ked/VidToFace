@@ -1,4 +1,4 @@
-# VideoToFace
+# VidToFace
 
 This project provides a pipeline to extract faces from a video file and cluster them to identify unique individuals. It consists of three main scripts:
 
@@ -28,6 +28,6 @@ This project provides a pipeline to extract faces from a video file and cluster 
 ## Installation
 
 ```bash
-git clone https://github.com/sp3ked/VideoToFace.git
-cd VideoToFace
+git clone https://github.com/sp3ked/VidToFace.git
+cd VidToFace
 python main.py
